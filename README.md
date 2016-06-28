@@ -15,7 +15,7 @@ Summaries are created by ranking sentences in a news article according to how re
 # Installation:
 Requires Python 2.7. (Need Collections.Counter)
 ```
-sudo pip install pyteaser
+sudo pip install git+git://github.com/chyt/PyTeaser.git
 ```
 
 These dependency packages will be automatically installed:
